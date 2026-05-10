@@ -1,0 +1,525 @@
+   Compiling proc-macro2 v1.0.106
+   Compiling quote v1.0.45
+   Compiling serde_core v1.0.228
+   Compiling libc v0.2.186
+   Compiling log v0.4.29
+   Compiling once_cell v1.21.4
+   Compiling autocfg v1.5.0
+   Compiling smallvec v1.15.1
+   Compiling pkg-config v0.3.33
+   Compiling version_check v0.9.5
+   Compiling find-msvc-tools v0.1.9
+   Compiling shlex v1.3.0
+   Compiling serde v1.0.228
+   Compiling arrayvec v0.7.6
+   Compiling libloading v0.8.9
+   Compiling stable_deref_trait v1.2.1
+   Compiling crossbeam-utils v0.8.21
+   Compiling memchr v2.8.0
+   Compiling rustix v1.1.4
+   Compiling cc v1.2.61
+   Compiling zerocopy v0.8.48
+   Compiling linux-raw-sys v0.12.1
+   Compiling cfg_aliases v0.1.1
+   Compiling thiserror v1.0.69
+   Compiling dlib v0.5.3
+   Compiling rayon-core v1.13.0
+   Compiling downcast-rs v1.2.1
+   Compiling scoped-tls v1.0.1
+   Compiling num-traits v0.2.19
+   Compiling parking_lot_core v0.9.12
+   Compiling either v1.15.0
+   Compiling scopeguard v1.2.0
+   Compiling wayland-client v0.31.14
+   Compiling getrandom v0.3.4
+   Compiling lock_api v0.4.14
+   Compiling simd-adler32 v0.3.9
+   Compiling getrandom v0.4.2
+   Compiling wayland-sys v0.31.11
+   Compiling equivalent v1.0.2
+   Compiling raw-window-handle v0.6.2
+   Compiling rand_core v0.10.1
+   Compiling quick-xml v0.39.3
+   Compiling hashbrown v0.17.0
+   Compiling ahash v0.8.12
+   Compiling slab v0.4.12
+   Compiling thiserror v2.0.18
+   Compiling ttf-parser v0.25.1
+   Compiling rustversion v1.0.22
+   Compiling syn v2.0.117
+   Compiling crossbeam-epoch v0.9.18
+   Compiling adler2 v2.0.1
+   Compiling zmij v1.0.21
+   Compiling anyhow v1.0.102
+   Compiling miniz_oxide v0.8.9
+   Compiling crossbeam-deque v0.8.6
+   Compiling paste v1.0.15
+   Compiling termcolor v1.4.1
+   Compiling pin-project-lite v0.2.17
+   Compiling bit-vec v0.6.3
+   Compiling num-integer v0.1.46
+   Compiling indexmap v2.14.0
+   Compiling khronos-egl v6.0.0
+   Compiling ab_glyph_rasterizer v0.1.10
+   Compiling num-bigint v0.4.6
+   Compiling unicode-width v0.1.14
+   Compiling rustix v0.38.44
+   Compiling crc32fast v1.5.0
+   Compiling wayland-scanner v0.31.10
+   Compiling ash v0.37.3+1.3.251
+   Compiling parking_lot v0.12.5
+   Compiling foldhash v0.1.5
+   Compiling serde_json v1.0.149
+   Compiling rayon v1.12.0
+   Compiling hashbrown v0.15.5
+   Compiling wayland-backend v0.3.15
+   Compiling codespan-reporting v0.11.1
+   Compiling bit-set v0.5.3
+   Compiling wgpu-hal v0.21.1
+   Compiling as-slice v0.2.1
+   Compiling libloading v0.7.4
+   Compiling byteorder v1.5.0
+   Compiling linux-raw-sys v0.4.15
+   Compiling rustc-hash v1.1.0
+   Compiling built v0.8.0
+   Compiling unicode-xid v0.2.6
+   Compiling bitflags v1.3.2
+   Compiling av-scenechange v0.14.1
+   Compiling itoa v1.0.18
+   Compiling hexf-parse v0.2.1
+   Compiling syn v1.0.109
+   Compiling bitflags v2.11.1
+   Compiling num-rational v0.4.2
+   Compiling aligned v0.4.3
+   Compiling gpu-descriptor-types v0.2.0
+   Compiling spirv v0.3.0+sdk-1.3.268.0
+   Compiling gpu-alloc-types v0.3.0
+   Compiling gpu-descriptor v0.3.2
+   Compiling rav1e v0.8.1
+   Compiling owned_ttf_parser v0.25.1
+   Compiling gpu-alloc v0.6.0
+   Compiling wgpu-types v0.20.0
+   Compiling wgpu-core v0.21.1
+   Compiling ab_glyph v0.2.32
+   Compiling no_std_io2 v0.9.4
+   Compiling nom v8.0.0
+   Compiling litrs v1.0.0
+   Compiling writeable v0.6.3
+   Compiling renderdoc-sys v1.1.0
+   Compiling cpufeatures v0.3.0
+   Compiling percent-encoding v2.3.2
+   Compiling quick-error v2.0.1
+   Compiling lazy_static v1.5.0
+   Compiling y4m v0.8.0
+   Compiling litemap v0.8.2
+   Compiling glow v0.13.1
+   Compiling pastey v0.1.1
+   Compiling document-features v0.2.12
+   Compiling chacha20 v0.10.0
+   Compiling maybe-rayon v0.1.1
+   Compiling bitstream-io v4.10.0
+   Compiling flate2 v1.1.9
+   Compiling simd_helpers v0.1.0
+   Compiling itertools v0.14.0
+   Compiling wgpu v0.20.1
+   Compiling tracing-core v0.1.36
+   Compiling strict-num v0.1.1
+   Compiling imgref v1.12.1
+   Compiling env_home v0.1.0
+   Compiling iana-time-zone v0.1.65
+   Compiling xcursor v0.3.10
+   Compiling weezl v0.1.12
+   Compiling cursor-icon v1.2.0
+   Compiling arrayref v0.3.9
+   Compiling synstructure v0.13.2
+   Compiling new_debug_unreachable v1.0.6
+   Compiling xkeysym v0.2.1
+   Compiling smithay-client-toolkit v0.18.1
+   Compiling zune-core v0.5.1
+   Compiling icu_properties_data v2.2.0
+   Compiling icu_normalizer_data v2.2.0
+   Compiling noop_proc_macro v0.3.0
+   Compiling utf8_iter v1.0.4
+   Compiling base64 v0.21.7
+   Compiling zune-jpeg v0.5.15
+   Compiling which v7.0.3
+   Compiling chrono v0.4.44
+   Compiling loop9 v0.1.5
+   Compiling rand v0.10.1
+   Compiling uuid v1.23.1
+   Compiling num_cpus v1.17.0
+   Compiling inotify-sys v0.1.5
+   Compiling memmap2 v0.9.10
+   Compiling crossbeam-queue v0.3.12
+   Compiling fdeflate v0.3.7
+   Compiling zune-inflate v0.2.54
+   Compiling alsa-sys v0.3.1
+   Compiling x11-dl v2.21.0
+   Compiling generic-array v0.14.7
+   Compiling avif-serialize v0.8.8
+   Compiling fax v0.2.7
+   Compiling static_assertions v1.1.0
+   Compiling color_quant v1.1.0
+   Compiling byteorder-lite v0.1.0
+   Compiling lebe v0.5.3
+   Compiling pxfm v0.1.29
+   Compiling rgb v0.8.53
+   Compiling bit_field v0.10.3
+   Compiling gif v0.14.2
+   Compiling png v0.18.1
+   Compiling ispc_rt v2.0.4
+   Compiling luajit-src v210.5.12+a4f56a4
+   Compiling image-webp v0.2.4
+   Compiling getrandom v0.2.17
+   Compiling bytemuck_derive v1.10.2
+   Compiling serde_derive v1.0.228
+   Compiling zerocopy-derive v0.8.48
+   Compiling thiserror-impl v1.0.69
+   Compiling zerofrom-derive v0.1.7
+   Compiling profiling-procmacros v1.0.18
+   Compiling yoke-derive v0.8.2
+   Compiling profiling v1.0.18
+   Compiling zerovec-derive v0.11.3
+   Compiling equator-macro v0.4.2
+   Compiling displaydoc v0.2.5
+   Compiling thiserror-impl v2.0.18
+   Compiling bytemuck v1.25.0
+   Compiling equator v0.4.2
+   Compiling polling v3.11.0
+   Compiling zerofrom v0.1.7
+   Compiling naga v0.20.0
+   Compiling arg_enum_proc_macro v0.3.4
+   Compiling tracing-attributes v0.1.31
+   Compiling num-derive v0.4.2
+   Compiling yoke v0.8.2
+   Compiling aligned-vec v0.6.4
+   Compiling calloop v0.12.4
+   Compiling tiny-skia-path v0.11.4
+   Compiling zerotrie v0.2.4
+   Compiling v_frame v0.3.9
+   Compiling zerovec v0.11.6
+   Compiling av1-grain v0.2.5
+   Compiling wayland-csd-frame v0.3.0
+   Compiling moxcms v0.8.1
+   Compiling qoi v0.4.1
+   Compiling glam v0.32.1
+   Compiling tiny-skia v0.11.4
+   Compiling symphonia-core v0.5.5
+   Compiling tinystr v0.8.3
+   Compiling wayland-protocols v0.31.2
+   Compiling potential_utf v0.1.5
+   Compiling icu_locale_core v2.2.0
+   Compiling icu_collections v2.2.0
+   Compiling tracing v0.1.44
+   Compiling wayland-cursor v0.31.14
+   Compiling calloop-wayland-source v0.2.0
+   Compiling gethostname v1.1.0
+   Compiling lua-src v547.0.0
+   Compiling winit v0.29.15
+   Compiling icu_provider v2.2.0
+   Compiling encoding_rs v0.8.35
+   Compiling x11rb-protocol v0.13.2
+   Compiling as-raw-xcb-connection v1.0.1
+   Compiling icu_properties v2.2.0
+   Compiling icu_normalizer v2.2.0
+   Compiling mlua-sys v0.6.8
+   Compiling safe_arch v1.0.0
+   Compiling ron v0.8.1
+   Compiling emath v0.28.1
+   Compiling symphonia-metadata v0.5.5
+   Compiling intel_tex_2 v0.4.0
+   Compiling ecolor v0.28.1
+   Compiling xkbcommon-dl v0.4.2
+   Compiling proc-macro-error-attr v1.0.4
+   Compiling half v2.7.1
+   Compiling gizmo-core v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-core)
+   Compiling heck v0.5.0
+   Compiling nohash-hasher v0.2.0
+   Compiling smol_str v0.2.2
+   Compiling typeid v1.0.3
+   Compiling exr v1.74.0
+   Compiling tiff v0.11.3
+   Compiling wasm-bindgen-shared v0.2.121
+   Compiling hashbrown v0.14.5
+   Compiling rustc-hash v2.1.2
+   Compiling inflections v1.1.1
+   Compiling pollster v0.3.0
+   Compiling cpal v0.15.3
+   Compiling tinyvec_macros v0.1.1
+   Compiling tinyvec v1.11.0
+   Compiling gltf-derive v1.4.1
+   Compiling epaint v0.28.1
+   Compiling strum_macros v0.26.4
+   Compiling wayland-protocols-wlr v0.2.0
+   Compiling wayland-protocols-plasma v0.2.0
+   Compiling dashmap v5.5.3
+   Compiling alsa v0.9.1
+   Compiling ppv-lite86 v0.2.21
+   Compiling idna_adapter v1.2.2
+   Compiling symphonia-bundle-mp3 v0.5.5
+   Compiling ravif v0.13.0
+   Compiling wide v1.3.0
+   Compiling enum-primitive-derive v0.2.2
+   Compiling ogg v0.8.0
+   Compiling sctk-adwaita v0.8.3
+   Compiling gizmo-math v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-math)
+   Compiling image v0.25.10
+   Compiling meshopt v0.6.2
+   Compiling rand_core v0.9.5
+   Compiling proc-macro-error v1.0.4
+   Compiling dasp_sample v0.11.0
+   Compiling rand_chacha v0.9.0
+   Compiling ddsfile v0.5.2
+   Compiling lewton v0.10.2
+   Compiling symphonia v0.5.5
+   Compiling idna v1.1.0
+   Compiling strum v0.26.3
+   Compiling egui v0.28.1
+   Compiling gltf-json v1.4.1
+   Compiling block-buffer v0.10.4
+   Compiling crypto-common v0.1.7
+   Compiling enum-primitive-derive v0.3.0
+   Compiling inotify v0.9.6
+   Compiling inotify v0.11.1
+   Compiling form_urlencoded v1.2.2
+   Compiling notify-types v2.1.0
+   Compiling filetime v0.2.27
+   Compiling mio v0.8.11
+   Compiling mio v1.2.0
+   Compiling float-cmp v0.10.0
+   Compiling crossbeam-channel v0.5.15
+   Compiling bcdec_rs v0.2.0
+   Compiling claxon v0.4.3
+   Compiling urlencoding v2.1.3
+   Compiling hound v3.5.1
+   Compiling base64 v0.13.1
+   Compiling notify v6.1.1
+   Compiling notify v8.2.0
+   Compiling ddsfile v0.6.0
+   Compiling rodio v0.17.3
+   Compiling url v2.5.8
+   Compiling digest v0.10.7
+   Compiling ron v0.12.1
+   Compiling rand v0.9.4
+   Compiling tobj v4.0.3
+   Compiling toml_datetime v0.6.11
+   Compiling serde_spanned v0.6.9
+   Compiling aho-corasick v1.1.4
+   Compiling option-ext v0.2.0
+   Compiling toml_write v0.1.2
+   Compiling bumpalo v3.20.2
+   Compiling web-time v0.2.4
+   Compiling object v0.37.3
+   Compiling winnow v0.7.15
+   Compiling heck v0.4.1
+   Compiling rfd v0.17.2
+   Compiling wasm-bindgen-macro-support v0.2.121
+   Compiling dirs-sys v0.5.0
+   Compiling duplicate v1.0.0
+   Compiling sha2 v0.10.9
+   Compiling image_dds v0.7.2
+   Compiling gltf v1.4.1
+   Compiling webbrowser v1.2.1
+   Compiling regex-automata v0.4.14
+   Compiling x11rb v0.13.2
+   Compiling toml_edit v0.22.27
+   Compiling gizmo-audio v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-audio)
+   Compiling type-map v0.5.1
+   Compiling wayland-protocols v0.32.12
+   Compiling wasm-bindgen v0.2.121
+   Compiling bstr v1.12.1
+   Compiling pollster v0.4.0
+   Compiling gimli v0.32.3
+   Compiling egui_dock v0.13.0
+   Compiling globset v0.4.18
+   Compiling toml v0.8.23
+   Compiling wasm-bindgen-macro v0.2.121
+   Compiling dirs v6.0.0
+   Compiling futures-core v0.3.32
+   Compiling rustc-demangle v0.1.27
+   Compiling futures-task v0.3.32
+   Compiling mlua v0.9.9
+   Compiling futures-util v0.3.32
+   Compiling rust-embed-utils v8.11.0
+   Compiling rust-embed-impl v8.11.0
+   Compiling egui-winit v0.28.1
+   Compiling addr2line v0.25.1
+   Compiling gizmo-window v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-window)
+   Compiling rust-embed v8.11.0
+   Compiling gizmo-physics v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-physics)
+   Compiling gizmo-renderer v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer)
+   Compiling egui-wgpu v0.28.1
+   Compiling js-sys v0.3.98
+   Compiling backtrace v0.3.76
+warning: unused variable: `joint_idx`
+   --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer/src/animation_system.rs:259:21
+    |
+259 |         if let Some(joint_idx) = get_joint_idx(track.target_node, &track.target_node_name) {
+    |                     ^^^^^^^^^ help: if this is intentional, prefix it with an underscore: `_joint_idx`
+    |
+    = note: `#[warn(unused_variables)]` (part of `#[warn(unused)]`) on by default
+
+   Compiling gizmo-ai v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-ai)
+   Compiling gizmo-scripting v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-scripting)
+   Compiling gizmo-scene v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-scene)
+warning: `gizmo-renderer` (lib) generated 1 warning (run `cargo fix --lib -p gizmo-renderer` to apply 1 suggestion)
+   Compiling gizmo-editor v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-editor)
+   Compiling web-sys v0.3.98
+   Compiling gizmo-app v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app)
+warning: value assigned to `tex_id` is never read
+   --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:646:54
+    |
+646 | ...                   let mut tex_id = None;
+    |                                        ^^^^
+    |
+    = help: maybe it is overwritten before being read?
+    = note: `#[warn(unused_assignments)]` (part of `#[warn(unused)]`) on by default
+
+warning: value assigned to `tex_id` is never read
+   --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:695:54
+    |
+695 | ...                   let mut tex_id = None;
+    |                                        ^^^^
+    |
+    = help: maybe it is overwritten before being read?
+
+   Compiling gizmo v0.1.0 (/home/bedir/Documents/code/Gizmo-engine/crates/gizmo)
+warning: `gizmo-app` (lib) generated 2 warnings
+warning: type `BatchKey` is more private than the item `RenderCache::batches`
+  --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo/src/systems/render.rs:13:5
+   |
+13 |     pub batches: std::collections::HashMap<BatchKey, BatchData>,
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ field `RenderCache::batches` is reachable at visibility `pub`
+   |
+note: but type `BatchKey` is only usable at visibility `pub(self)`
+  --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo/src/systems/render.rs:44:1
+   |
+44 | struct BatchKey {
+   | ^^^^^^^^^^^^^^^
+   = note: `#[warn(private_interfaces)]` on by default
+
+warning: type `BatchData` is more private than the item `RenderCache::batches`
+  --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo/src/systems/render.rs:13:5
+   |
+13 |     pub batches: std::collections::HashMap<BatchKey, BatchData>,
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ field `RenderCache::batches` is reachable at visibility `pub`
+   |
+note: but type `BatchData` is only usable at visibility `pub(self)`
+  --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo/src/systems/render.rs:50:1
+   |
+50 | struct BatchData {
+   | ^^^^^^^^^^^^^^^^
+
+warning: field `material_paths` is never read
+ --> /home/bedir/Documents/code/Gizmo-engine/crates/gizmo/src/asset_server.rs:9:5
+  |
+6 | pub struct AssetServer {
+  |            ----------- field in this struct
+...
+9 |     material_paths: std::collections::HashMap<String, Handle<Material>>,
+  |     ^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(dead_code)]` (part of `#[warn(unused)]`) on by default
+
+warning: `gizmo` (lib) generated 3 warnings
+   Compiling my_game v0.1.0 (/home/bedir/Documents/code/gizmo_fight)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 52.80s
+     Running `target/debug/my_game`
+Gizmo Engine Coktu!
+
+Konum: /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:2996
+Hata: wgpu error: Validation Error
+
+Caused by:
+    In Queue::write_texture
+    Number of bytes per row is less than the number of bytes in a complete row
+
+
+
+Olay Yeri Inceleme Raporu 'gizmo_crash_report.json' olarak kaydedildi.
+--- BACKTRACE ---
+   0: gizmo_app::setup_panic_hook::{{closure}}
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:45:29
+   1: <alloc::boxed::Box<F,A> as core::ops::function::Fn<Args>>::call
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/alloc/src/boxed.rs:2220:9
+      std::panicking::panic_with_hook
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:833:13
+   2: std::panicking::panic_handler::{{closure}}
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:698:13
+   3: std::sys::backtrace::__rust_end_short_backtrace
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/sys/backtrace.rs:182:18
+   4: __rustc::rust_begin_unwind
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:689:5
+   5: core::panicking::panic_fmt
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/core/src/panicking.rs:80:14
+   6: wgpu::backend::wgpu_core::default_error_handler
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:2996:5
+   7: core::ops::function::Fn::call
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/core/src/ops/function.rs:79:5
+   8: <alloc::boxed::Box<F,A> as core::ops::function::Fn<Args>>::call
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/alloc/src/boxed.rs:2220:9
+   9: wgpu::backend::wgpu_core::ErrorSinkRaw::handle_error
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:2982:17
+  10: wgpu::backend::wgpu_core::ContextWgpuCore::handle_error
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:293:14
+  11: wgpu::backend::wgpu_core::ContextWgpuCore::handle_error_nolabel
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:305:14
+  12: <wgpu::backend::wgpu_core::ContextWgpuCore as wgpu::context::Context>::queue_write_texture
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/backend/wgpu_core.rs:2221:22
+  13: <T as wgpu::context::DynContext>::queue_write_texture
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/context.rs:2995:9
+  14: wgpu::Queue::write_texture
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wgpu-0.20.1/src/lib.rs:4937:9
+  15: gizmo_renderer::ssao::build_noise_texture
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer/src/ssao.rs:237:11
+  16: gizmo_renderer::ssao::SsaoState::new
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer/src/ssao.rs:81:43
+  17: gizmo_renderer::renderer::Renderer::new::{{closure}}::{{closure}}
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer/src/renderer.rs:413:13
+  18: core::option::Option<T>::map
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/core/src/option.rs:1165:29
+  19: gizmo_renderer::renderer::Renderer::new::{{closure}}
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-renderer/src/renderer.rs:412:38
+  20: gizmo_app::App<State>::run_internal::{{closure}}
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:361:54
+  21: pollster::block_on
+             at /home/bedir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pollster-0.3.0/src/lib.rs:128:28
+  22: gizmo_app::App<State>::run_default
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:343:13
+  23: gizmo_app::App<State>::run
+             at /home/bedir/Documents/code/Gizmo-engine/crates/gizmo-app/src/lib.rs:278:14
+  24: my_game::main
+             at src/main.rs:1652:10
+  25: core::ops::function::FnOnce::call_once
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/core/src/ops/function.rs:250:5
+  26: std::sys::backtrace::__rust_begin_short_backtrace
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/sys/backtrace.rs:166:18
+  27: std::rt::lang_start::{{closure}}
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/rt.rs:206:18
+  28: core::ops::function::impls::<impl core::ops::function::FnOnce<A> for &F>::call_once
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/core/src/ops/function.rs:287:21
+      std::panicking::catch_unwind::do_call
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:581:40
+      std::panicking::catch_unwind
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:544:19
+      std::panic::catch_unwind
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panic.rs:359:14
+      std::rt::lang_start_internal::{{closure}}
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/rt.rs:175:24
+      std::panicking::catch_unwind::do_call
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:581:40
+      std::panicking::catch_unwind
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panicking.rs:544:19
+      std::panic::catch_unwind
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/panic.rs:359:14
+      std::rt::lang_start_internal
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/rt.rs:171:5
+  29: std::rt::lang_start
+             at /rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/std/src/rt.rs:205:5
+  30: main
+  31: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  32: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:360:3
+  33: _start
+
